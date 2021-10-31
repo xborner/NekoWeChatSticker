@@ -2,6 +2,10 @@
 
 Elegantly import Telegram stickers to WeChat. BTW ZhangXiaoLong without ___.
 
+
+![](./demo1.gif)
+
+
 1. Export Telegram sticker
 
 	Use [StickerSetBot](https://telegram.me/stickerset2packbot) export your sticker. This robot can export sticker to PNG, or multiple stickers/sticker sets to a zip of PNG/JPG.
