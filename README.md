@@ -12,11 +12,11 @@ Elegantly import Telegram stickers to WeChat. BTW ZhangXiaoLong without ___.
 
 1. Convert image format to gif
 
-	Use ![NekoWebpTogif.exe]()(developing) batch conversion of picture formats.
+	Use [webp2gif.exe](https://github.com/xborner/NekoWeChatSticker/blob/main/webp2gif_v1.0.zip?raw=true) batch conversion of picture formats.
 
 1. Rename sticker file
 
-	Use ![NekoRename.exe]()(developing) rename sticker file to 1.gif, 2.gif, 3.gif...
+	Use [NekoRename.exe]()(developing) rename sticker file to 1.gif, 2.gif, 3.gif...
 
 1. Make some settings
 
